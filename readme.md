@@ -18,10 +18,13 @@ Este é um projeto de iniciação de backend desenvolvido com Node.js e Express.
 
 O projeto segue a seguinte estrutura:
 
-projeto-backend/
+projeto-backend
 │
+
 ├── index.js # Arquivo principal do servidor
+
 ├── package.json # Arquivo de manifesto do projeto
+
 └── README.md # Este arquivo README
 
 
